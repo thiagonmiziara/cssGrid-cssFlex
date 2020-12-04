@@ -37,6 +37,11 @@ img {
     align-items: center;
 }
 
+.logo {
+    width: 100px;
+    height: 100px;
+}
+
 .menu {
     display: flex;
 }
